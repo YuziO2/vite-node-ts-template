@@ -1,0 +1,14 @@
+# history
+.history
+
+# node_modules
+/node_modules
+
+# dist
+/dist
+
+# runtime data
+/data
+
+# template zip
+/template_zip/*.zip
